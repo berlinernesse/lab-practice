@@ -11,7 +11,7 @@ function App() {
     <>
       <div>
         <button onClick={() => setSelected("1")}>Code Sample 1</button>
-        <p>Fuck you ness</p>
+        <p>Fuck you ness, how can a person be soo mean?</p>
       </div>
 
       <div id="CodeSampleContainer">
